@@ -1,4 +1,4 @@
-# TintyTorch
+# TinyTorch
 
 This repository contains a simple implementation of a neural network designed to solve the XOR problem. The neural network is implemented in C++ and uses a feedforward architecture with backpropagation for training.
 
